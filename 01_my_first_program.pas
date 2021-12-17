@@ -1,7 +1,7 @@
-     PROGRAM my_first_program(OUTPUT);
+PROGRAM my_first_program(OUTPUT);
 
-     { This is a comment line }
+{ This is a comment line }
 
-     BEGIN
-       WRITELN('I can write Pascal programs');
-     END.
+BEGIN
+  WRITELN('I can write Pascal programs');
+END.
