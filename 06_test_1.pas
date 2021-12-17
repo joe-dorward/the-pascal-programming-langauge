@@ -1,0 +1,5 @@
+PROGRAM test_1(OUTPUT);
+BEGIN
+  WRITELN(1234.56789);
+  WRITELN(1234.56789:0:2);
+END.   { program test_1 }
